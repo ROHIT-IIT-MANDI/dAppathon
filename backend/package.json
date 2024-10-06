@@ -1,0 +1,14 @@
+{
+    "name": "aptos-backend",
+    "version": "1.0.0",
+    "description": "Backend for Aptos Smart Contract Interaction",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "aptos": "^1.0.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
